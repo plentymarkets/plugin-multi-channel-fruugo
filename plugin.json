@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "name": "Fruugo",
+  "marketplaceName": "Fruugo",
   "description": "Um Fruugo in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Fruugo nötig.",
   "namespace": "MultiChannelFruugo",
   "pluginIcon": "icon_plugin_xs.png",
