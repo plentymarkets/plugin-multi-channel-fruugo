@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Fruugo",
   "marketplaceName": "Fruugo",
   "description": "Um Fruugo in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Fruugo nötig.",
@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz Fruugo ist in plentymarkets 7 bereits integriert. Um Fruugo in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Fruugo nötig.",
-    "en": "Fruugo is already integrated into your plentymarkets 7 system. A Fruugo seller account is mandatory for setting up Fruugo in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes Fruugo wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Fruugo zu listen. Die Schnittstelle zu Fruugo ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Fruugo enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Fruugo. The interface to Fruugo is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
